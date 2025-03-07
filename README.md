@@ -1,1 +1,1 @@
-Please doenload the TS HTML file to view the clusters more precisely
+Download the STF HTML file to view the clusters more precisely
